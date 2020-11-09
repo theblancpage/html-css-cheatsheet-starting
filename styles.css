@@ -1,0 +1,45 @@
+/*font-family: 'Montserrat', sans-serif;
+font-family: 'Special Elite', cursive;*/
+
+
+
+
+
+
+h1 {
+   font-family: 'Montserrat', sans-serif;
+   
+}
+
+h2{
+   font-family: 'Montserrat', sans-serif;
+   font-weight: 500;
+}
+
+h1, h2 {
+   text-align: center;
+}
+
+table {
+   font-family: 'Montserrat', sans-serif;
+   margin-right: auto;
+   margin-left: auto;
+   
+}
+
+span {
+   font-family: 'Special Elite', cursive;
+}
+
+table, th, td {
+   border: 1px solid black;
+   
+}
+
+th {
+   background-color: skyblue;
+}
+
+td {
+   background-color: thistle;
+}
